@@ -1,3 +1,3 @@
 # uptime buat bot anda
 
-[GITHUB] 
+[GITHUB](https://github.com/pikzykacheng)
