@@ -1,7 +1,5 @@
 ## UPTIME BUAT BOT ANDA
 
-<a href=""><img src="https://cdn.discordapp.com/attachments/828214547609157642/839479159909908500/20210505_203015.png" alt="Open Source"></a> - <a href=""><img src="https://cdn.discordapp.com/attachments/828214547609157642/839480276378714112/20210505_203426.jpg" alt="Open Source"></a>
-
 [GitHub](https://github.com/pikzykacheng)
 [Heroku](https://heroku.com)
 [Glitch](https://glitch.com)
@@ -35,3 +33,5 @@
 * Uptime: 24/7
 * Bot: Audit Logs, Usage __¢-setlogchannel__ #channel
 * Help: Usage __¢-help__ To Views All Commands
+
+<a href=""><img src="https://cdn.discordapp.com/attachments/828214547609157642/839479159909908500/20210505_203015.png" alt="Open Source"></a> - <a href=""><img src="https://cdn.discordapp.com/attachments/828214547609157642/839480276378714112/20210505_203426.jpg" alt="Open Source"></a>
