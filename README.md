@@ -1,1 +1,3 @@
-# uptime buat bot
+# uptime buat bot anda
+
+[GITHUB] 
