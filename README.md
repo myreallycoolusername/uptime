@@ -1,12 +1,12 @@
-## UPTIME BUAT BOT ANDA
+#### UPTIME BUAT BOT ANDA
 
-#### Link
+##### Link
 * [GitHub](https://github.com/pikzykacheng)
 * [Heroku](https://heroku.com)
 * [Glitch](https://glitch.com)
 * [Support Server](https://discord.gg/NcMtUEUEUk)
 
-### **SUPPORT**
+#### **SUPPORT**
 ##### **Fuzzy Spuffy**
 * [Invite](https://discord.com/oauth2/authorize?client_id=828211501268467723&permissions=8&scope=bot)
 * Prefix: [[?]](https://discord.gg/NcMtUEUEUk)
