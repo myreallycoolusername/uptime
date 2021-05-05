@@ -21,5 +21,5 @@
 ###### **Prefix** [[+]](https://discord.gg/NcMtUEUEUk)
 
 #### **Snow Flakes**
-##### [Invite](https://discord.com/oauth2/authorize?client_id=828211501268467723&permissions=8&scope=bot)
-###### **Prefix** [[¢-]](https://discord.gg/NcMtUEUEUk)
+[Invite](https://discord.com/oauth2/authorize?client_id=828211501268467723&permissions=8&scope=bot)
+**Prefix** [[¢-]](https://discord.gg/NcMtUEUEUk)
